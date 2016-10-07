@@ -5,7 +5,7 @@ function get_price($find) {
     "java"=>299,
     "c"=>348,
     "php"=>267,
-    "cobol"=>789
+    "cobol"=>7890
   );
 
   foreach($books as $book=>$price)
